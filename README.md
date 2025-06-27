@@ -1,7 +1,6 @@
 # NYC Airbnb Dashboard – Hotel & Accommodation Analysis
 
-### Dashboard Link : https://public.tableau.com/app/profile/asia.mozahim/viz/EX_17303987444090/Dashboard2
-
+### Dashboard Link : https://public.tableau.com/app/profile/asia.mozahim/viz/Dashboard_17510351613220/Dashboard2
 ## Project Overview
 This project analyzes Airbnb listings and hospitality data in New York City using interactive Tableau dashboards. The goal is to uncover insights related to pricing trends, neighborhood dynamics, host performance, and seasonal booking behaviors, providing decision-makers with clear, actionable visuals.
 
