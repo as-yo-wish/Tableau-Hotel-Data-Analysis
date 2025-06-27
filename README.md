@@ -25,25 +25,22 @@ This project analyzes Airbnb listings and hospitality data in New York City usin
 ## Dashboard Highlights & Key Insights
 
 ### 1. Total Hosts, Reviews & Neighborhoods
+
 - Total Hosts: 37,457
+  
 ![Image](https://github.com/user-attachments/assets/4dab5031-75a8-48bc-84d8-6758eeac2bb8)
 
-
-
-
 - Total Reviews: 1,138,005
+  
 ![Image](https://github.com/user-attachments/assets/57b355c7-b4cd-4eef-8316-d0bb1582151f)  
 
-
-
-
-- Total Neighborhoods: 221  
+- Total Neighborhoods: 221
+   
 ![Image](https://github.com/user-attachments/assets/e01b894d-9ce3-4b22-afdb-286aaed548aa)
 
 
-
-
 - Average Reviews per Month: 1.373
+- 
 ![Image](https://github.com/user-attachments/assets/0403bc85-c6b2-41b5-9ed8-20bd1c189808)
 
 
