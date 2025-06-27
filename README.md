@@ -25,7 +25,7 @@ This project analyzes Airbnb listings and hospitality data in New York City usin
 ## Dashboard Highlights & Key Insights
 
 ### 1. Total Hosts, Reviews & Neighborhoods
-- Total Hosts: 37,457  
+- Total Hosts: 37,457
 ![Image](https://github.com/user-attachments/assets/4dab5031-75a8-48bc-84d8-6758eeac2bb8)
 
 
@@ -77,7 +77,7 @@ Insight : Manhattan dominates in listings, but Brooklyn also has strong presence
 - Private room: $59.7
 - Shared room: $48.42
 
-- 
+
 ![Image](https://github.com/user-attachments/assets/55f99899-749c-4af7-8d69-cc7fe5fbab00)
 
 
